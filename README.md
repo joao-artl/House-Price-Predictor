@@ -1,1 +1,3 @@
 # House-Price-Predictor
+
+Projeto que visa desenvolver um dashboard interativo em R Shiny com a funcionalidade de prever preços de casas. O projeto utilizará o dataset ["House Prices - Advanced Regression Techniques"](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/) do Kaggle para treinar um modelo de Machine Learning, que será a base das estimativas fornecidas aos usuários.
